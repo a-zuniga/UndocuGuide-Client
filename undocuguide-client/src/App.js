@@ -6,11 +6,13 @@ import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 import ResponsiveAppBar from './components/navbar';
 
+
 function App() {
     return (
         <div className="App">
             <ResponsiveAppBar />
         </div>
+        
     );
 }
 
